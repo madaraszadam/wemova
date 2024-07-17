@@ -7,4 +7,4 @@ original.
 In the example directory, you can find a linux binary, 
 the kernel file and a short trajectory file. You can run 
 the example with this command on linux:
-printf water_traj.xyz | ./wemova
+"printf water_traj.xyz | ./wemova"
